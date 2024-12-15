@@ -5,4 +5,4 @@
 ### forwarding_unit.sv: Detects data forwarding hazards between Memory and Execute stages of the pipeline and will forward data via two MUXs to the ALU.
 ### zero_equal.sv: Used by CBZ ARM Assembly operations to quickly check the Branch status required if the ouput of the ALU is zero.
 
-##! All other files are adopted from RegFile and ALU projects!
+## ! All other files are adopted from RegFile and ALU projects!
